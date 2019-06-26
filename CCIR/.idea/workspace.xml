@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="126a1ca6-9d61-4486-908b-b4d201fee1d8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Chinese_Embedding/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CCIR_offline/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CCIR_online/CCIR_ItemCF_Rec_online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CCIR_online/CCIR_ItemCF_online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CCIR_online/CCIR_Item_Popular_0801.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CCIR_online/CCIR_popolar_Rec_online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CCIR_online/CCIR_popular_online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CCIR_online/Process_Word2Vector_formal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CCIR_online/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CCIR_online/coolUser_Rec_baseOnTopic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese_Embedding/Segment_Wiki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese_Embedding/Simply_charater.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chinese_Embedding/Wiki_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/华为.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/小米.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/抖音.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/搜狗.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticData/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticData/test.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1414544282">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="23" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="2" />
+          <entry key="project.open.time.20" value="4" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.4" value="5" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.52" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="28" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="9" />
+          <entry key="py" value="22222" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="22222" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="55" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="55" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chinese_Embedding/Wiki_process.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="21" />
+              <folding>
+                <element signature="e#58#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chinese_Embedding/word_analogy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chinese_Embedding/Segment_Wiki.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/StaticData/mutilateThread.py" />
+        <option value="$PROJECT_DIR$/StaticData/formatTrainSet.py" />
+        <option value="$PROJECT_DIR$/StaticData/processToW2V.py" />
+        <option value="$PROJECT_DIR$/CCIR_ItemCF.py" />
+        <option value="$PROJECT_DIR$/StaticData/CCIR_UserCF.py" />
+        <option value="$PROJECT_DIR$/getCoolUser.py" />
+        <option value="$PROJECT_DIR$/StaticData/get_samll_test.py" />
+        <option value="$PROJECT_DIR$/getCoolUser_Update.py" />
+        <option value="$PROJECT_DIR$/CCIRKMean_Clustering.py" />
+        <option value="$PROJECT_DIR$/CCIR_KMean_Clustering.py" />
+        <option value="$PROJECT_DIR$/CCIR_Item_Rec.py" />
+        <option value="$PROJECT_DIR$/Process_User_Word2Vector.py" />
+        <option value="$PROJECT_DIR$/CCIR_UserCF_Word2Vertor.py" />
+        <option value="$PROJECT_DIR$/CCIR_User_Rec.py" />
+        <option value="$PROJECT_DIR$/CCIR_Popularity_Rec.py" />
+        <option value="$PROJECT_DIR$/CCIR_real_CoolUser.py" />
+        <option value="$PROJECT_DIR$/CCIR_baseOn_topic_or_question.py" />
+        <option value="$PROJECT_DIR$/CCIR_real_cool_user_Rec.py" />
+        <option value="$PROJECT_DIR$/CCIR_baseOn_question.py" />
+        <option value="$PROJECT_DIR$/CombineAll_method.py" />
+        <option value="$PROJECT_DIR$/CCIR_baseOn_topic.py" />
+        <option value="$PROJECT_DIR$/CCIR_eval.py" />
+        <option value="$PROJECT_DIR$/CCIR_ItemCF_Rec_update.py" />
+        <option value="$PROJECT_DIR$/CCIR_getEvalTest_query.py" />
+        <option value="$PROJECT_DIR$/CCIR_eval_update_1.py" />
+        <option value="$PROJECT_DIR$/combineResult.py" />
+        <option value="$PROJECT_DIR$/CCIR_offline/CCIR_online.py" />
+        <option value="$PROJECT_DIR$/CCIR_offline/CCIR_ItemCF.py" />
+        <option value="$PROJECT_DIR$/CCIR_offline/CCIR_eval_update_1.py" />
+        <option value="$PROJECT_DIR$/CCIR_online/CCIR_popolar_Rec.py" />
+        <option value="$PROJECT_DIR$/CCIR_online/CCIR_popolar_Rec_online.py" />
+        <option value="$PROJECT_DIR$/CCIR_online/CCIR_baseOnTopic_offline.py" />
+        <option value="$PROJECT_DIR$/CCIR_online/CCIR_Item_Popular_0801.py" />
+        <option value="$PROJECT_DIR$/CCIR_offline/test.py" />
+        <option value="$PROJECT_DIR$/CCIR_online/CCIR_ItemCF_Rec_online.py" />
+        <option value="$PROJECT_DIR$/CCIR_online/Process_Word2Vector_formal.py" />
+        <option value="$PROJECT_DIR$/CCIR_offline/CCIR_eval.py" />
+        <option value="$PROJECT_DIR$/CCIR_online/CCIR_ItemCF_online.py" />
+        <option value="$PROJECT_DIR$/CCIR_online/CCIR_popular_online.py" />
+        <option value="$PROJECT_DIR$/CCIR_online/coolUser_Rec_baseOnTopic.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/华为.py" />
+        <option value="$PROJECT_DIR$/抖音.py" />
+        <option value="$PROJECT_DIR$/搜狗.py" />
+        <option value="$PROJECT_DIR$/小米.py" />
+        <option value="$PROJECT_DIR$/Chinese_Embedding/process.py" />
+        <option value="$PROJECT_DIR$/Chinese_Embedding/Wiki_process.py" />
+        <option value="$PROJECT_DIR$/Chinese_Embedding/Simply_charater.py" />
+        <option value="$PROJECT_DIR$/Chinese_Embedding/word_sim.py" />
+        <option value="$PROJECT_DIR$/Chinese_Embedding/Segment_character.py" />
+        <option value="$PROJECT_DIR$/Chinese_Embedding/Segment_Wiki.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="395" />
+    <option name="y" value="161" />
+    <option name="width" value="1022" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CCIR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCIR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCIR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCIR" type="462c0819:PsiDirectoryNode" />
+              <item name="CCIR_offline" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCIR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCIR" type="462c0819:PsiDirectoryNode" />
+              <item name="CCIR_online" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CCIR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CCIR" type="462c0819:PsiDirectoryNode" />
+              <item name="Chinese_Embedding" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\CCIR\StaticData" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Segment_Wiki">
+    <configuration name="Segment_Wiki" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CCIR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chinese_Embedding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chinese_Embedding/Segment_Wiki.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Simply_charater" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CCIR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chinese_Embedding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chinese_Embedding/Simply_charater.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Wiki_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CCIR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chinese_Embedding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chinese_Embedding/Wiki_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="小米" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CCIR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/小米.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="搜狗" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CCIR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/搜狗.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="抖音" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CCIR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/抖音.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CCIR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chinese_Embedding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chinese_Embedding/process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="word_sim" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CCIR" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chinese_Embedding" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chinese_Embedding/word_sim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Wiki_process" />
+      <item itemvalue="Python.process" />
+      <item itemvalue="Python.Simply_charater" />
+      <item itemvalue="Python.word_sim" />
+      <item itemvalue="Python.Segment_Wiki" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Segment_Wiki" />
+        <item itemvalue="Python.word_sim" />
+        <item itemvalue="Python.Simply_charater" />
+        <item itemvalue="Python.process" />
+        <item itemvalue="Python.Wiki_process" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="126a1ca6-9d61-4486-908b-b4d201fee1d8" name="Default" comment="" />
+      <created>1527904749338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527904749338</updated>
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1527910499583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527910499583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14053077" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49940476" weight="0.32930845" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49880952" weight="0.29820627" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39884764" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3297055" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011905" side_tool="true" weight="0.22173436" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3229572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49940476" weight="0.32930845" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49880952" visible="true" weight="0.17285532" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991145" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3297055" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011905" side_tool="true" weight="0.22173436" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CCIR_offline/CCIR_ItemCF.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CCIR_online/CCIR_popular_online.py</url>
+          <line>245</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chinese_Embedding/word_analogy.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CCIR_KMean_Clustering.py" />
+    <entry file="file://$PROJECT_DIR$/StaticData/CCIR_UserCF.py" />
+    <entry file="file://$PROJECT_DIR$/StaticData/ReadCCIRCSV.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_Item_Rec.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_ItemCF.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_UserCF.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_UserCF_Word2Vertor.py" />
+    <entry file="file://$PROJECT_DIR$/Process_User_Word2Vector.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_real_CoolUser.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_Popularity_Rec.py" />
+    <entry file="file://D:/Python3.6.5/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="643" selection-start-line="643" selection-end-line="643" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_baseOn_question.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_real_cool_user_Rec.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_ItemCF_Rec_update.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_eval.py" />
+    <entry file="file://$PROJECT_DIR$/CombineAll_method.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_User_Rec.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_getEvalTest_query.py" />
+    <entry file="file://$PROJECT_DIR$/combineResult.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_eval_update_1.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_baseOn_topic.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_offline/CCIR_online.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_offline/ProcessFormal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_offline/processToW2V.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_offline/CCIR_eval_update_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_offline/CCIR_ItemCF_Rec_update.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3318">
+          <caret line="160" column="95" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_offline/CCIR_ItemCF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+          <folding>
+            <element signature="e#187#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_online/CCIR_baseOnTopic_offline.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_online/CCIR_Item_Popular_0801.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_online/CCIR_popolar_Rec_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-504">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_offline/CCIR_baseOn_question.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="227" column="32" selection-start-line="227" selection-start-column="4" selection-end-line="227" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_offline/CCIR_baseOn_topic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2044">
+          <caret line="109" column="86" selection-start-line="109" selection-start-column="65" selection-end-line="109" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_offline/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1727">
+          <caret line="181" column="27" lean-forward="true" selection-start-line="181" selection-start-column="27" selection-end-line="181" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小米.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_online/coolUser_Rec_baseOnTopic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4452">
+          <caret line="212" column="34" selection-start-line="212" selection-start-column="34" selection-end-line="212" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="45" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/华为.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/抖音.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/搜狗.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_online/CCIR_ItemCF_Rec_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3297">
+          <caret line="158" column="16" selection-start-line="158" selection-start-column="16" selection-end-line="158" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_offline/CCIR_eval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4599">
+          <caret line="219" column="23" selection-start-line="219" selection-start-column="23" selection-end-line="219" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_online/CCIR_ItemCF_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CCIR_online/CCIR_popular_online.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="262" column="23" selection-start-line="262" selection-start-column="23" selection-end-line="262" selection-end-column="23" />
+          <folding>
+            <marker date="1533799365463" expanded="true" signature="87:92" ph="..." />
+            <marker date="1533799365463" expanded="true" signature="87:1173" ph="..." />
+            <marker date="1533799365463" expanded="true" signature="2341:2671" ph="..." />
+            <marker date="1533799365463" expanded="true" signature="2710:3103" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chinese_Embedding/process.py" />
+    <entry file="file://$PROJECT_DIR$/CCIR_online/Process_Word2Vector_formal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chinese_Embedding/word_sim.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+          <folding>
+            <element signature="e#100#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chinese_Embedding/Wiki_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="21" />
+          <folding>
+            <element signature="e#58#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chinese_Embedding/word_analogy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chinese_Embedding/Simply_charater.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chinese_Embedding/Segment_character.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chinese_Embedding/Segment_Wiki.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

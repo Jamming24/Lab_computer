@@ -1,0 +1,4 @@
+int:12	str:abc	
+float:0.4	
+str:bcd	
+str:good	int:1354	int:46454	
